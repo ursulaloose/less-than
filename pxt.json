@@ -1,5 +1,5 @@
 {
-    "name": "Less than",
+    "name": "LessThanExample1",
     "description": "",
     "dependencies": {
         "device": "*"
